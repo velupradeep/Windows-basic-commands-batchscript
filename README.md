@@ -1,5 +1,7 @@
-# Windows-basic-commands-batchscript
-Ex08-Windows-basic-commands-batchscript
+# NAME: PRADEEP V
+# REG NO: 212223240119
+# EX-08 Windows-basic-commands-batchscript
+
 
 # AIM:
 To execute Windows basic commands and batch scripting
